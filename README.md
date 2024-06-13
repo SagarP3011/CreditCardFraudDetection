@@ -1,8 +1,8 @@
-# Encryptix_Taskno.3
+# Encryptix_Taskno.2
 
 This repository contains the completed tasks for my internship in Machine Learning at Encryptix. The tasks involved implementing various machine learning models and solving real-world problems. Below are the details of the tasks completed:
 
-## Task 3: Credit Card Fraud Detection
+## Task 2: Credit Card Fraud Detection
 
 **Objective:** Detect fraudulent credit card transactions.
 
@@ -19,7 +19,6 @@ This repository contains the completed tasks for my internship in Machine Learni
 - Jupyter notebook with data exploration, model building, and evaluation.
 -  Saved models and other relevant files.
 
-## Conclusion
-All three tasks were successfully completed, demonstrating various aspects of machine learning such as data preprocessing, model implementation, evaluation, and fine-tuning. Each task provided a valuable learning experience and contributed to my skills and understanding in the field of machine learning.
+
 
 
